@@ -12,7 +12,12 @@
   "dependencies": {
     "express": "^4.16.4",
     "file-system": "^2.2.2",
+    "jshint": "^2.9.7",
     "morgan": "^1.9.1",
+    "nodemon": "^1.18.9",
+    "path": "^0.12.7",
+    "time-stamp": "^2.2.0",
+    "underscore": "^1.9.1",
     "winston": "^3.2.1"
   }
 }
